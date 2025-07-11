@@ -45,9 +45,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stuffedcrustpotato&show_icons=true&locale=en" alt="stuffedcrustpotato" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stuffedcrustpotato&" alt="stuffedcrustpotato" /></p>
 
 <!-- NEW FEATURED PROJECTS SECTION -->
+<h3 align="center">* ----- Under Construction ----- *</h3>
 Featured Projects
 
 Here are some of my standout projects:
