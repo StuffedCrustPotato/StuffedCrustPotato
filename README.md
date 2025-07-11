@@ -17,8 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stuffedcrustpotato&show_icons=true&locale=en" alt="stuffedcrustpotato" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stuffedcrustpotato&" alt="stuffedcrustpotato" /></p>
-
 𝙎𝙤𝙘𝙞𝙖𝙡 𝙈𝙚𝙙𝙞𝙖
 ℹ️ 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: facebook.com/StuffedCrustPatatas
 ℹ️ 𝗧𝘄𝗶𝘁𝘁𝗲𝗿: twitter.com/StffdCrstPtato
