@@ -46,6 +46,20 @@
 π Pi Network: @Nykonatics
 </p>
 
+<!-- NEW SUPPORT SECTION -->
+<p align="left">
+<strong>☕ Support My Content</strong><br>
+<a href="https://coff.ee/nintoki" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+</a>
+<a href="https://streamlabs.com/nintoki" target="_blank">
+  <img src="https://img.shields.io/badge/Streamlabs-0E0B16?style=for-the-badge&logo=streamlabs&logoColor=white" alt="Streamlabs">
+</a>
+<a href="https://patreon.com/Nintoki" target="_blank">
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
+</a>
+</p>
+
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
