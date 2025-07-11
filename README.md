@@ -1,4 +1,3 @@
-<h1 align="left">Welcome to my profile.</h1>
 <h3 align="left">Most of the time, I'm just one snack away from a better mood.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuffedcrustpotato&label=Profile%20views&color=0e75b6&style=flat" alt="stuffedcrustpotato" /> </p>
