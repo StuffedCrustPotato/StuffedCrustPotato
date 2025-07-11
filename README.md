@@ -46,3 +46,33 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stuffedcrustpotato&show_icons=true&locale=en" alt="stuffedcrustpotato" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stuffedcrustpotato&" alt="stuffedcrustpotato" /></p>
+
+<!-- NEW FEATURED PROJECTS SECTION -->
+Featured Projects
+
+Here are some of my standout projects:
+
+<div align="center">
+  <a href="https://github.com/stuffedcrustpotato/Data-Analytics-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuffedcrustpotato&repo=Data-Analytics-Dashboard&theme=radical" alt="Data Analytics Dashboard" width="45%">
+  </a>
+  <a href="https://github.com/stuffedcrustpotato/Workforce-Optimization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuffedcrustpotato&repo=Workforce-Optimization&theme=radical" alt="Workforce Optimization" width="45%">
+  </a>
+  <a href="https://github.com/stuffedcrustpotato/Resource-Planner-Tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuffedcrustpotato&repo=Resource-Planner-Tool&theme=radical" alt="Resource Planner" width="45%">
+  </a>
+  <a href="https://github.com/stuffedcrustpotato/PowerBI-Reports">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuffedcrustpotato&repo=PowerBI-Reports&theme=radical" alt="PowerBI Reports" width="45%">
+  </a>
+</div>
+
+<details>
+<summary><b>View More Projects</b></summary>
+
+| Project | Description | Technologies |
+|---------|-------------|-------------|
+| [Sales Forecast Model](https://github.com/stuffedcrustpotato/Sales-Forecast) | Time-series forecasting for retail | Python, ARIMA, Prophet |
+| [HR Analytics Dashboard](https://github.com/stuffedcrustpotato/HR-Analytics) | Employee performance visualization | Power BI, SQL |
+| [Inventory Optimization](https://github.com/stuffedcrustpotato/Inventory-Optimization) | Stock level prediction system | Machine Learning, Python |
+</details>
