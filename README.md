@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Welcome to my profile.</h1>
-<h3 align="center">Most of the time, I'm just one snack away from a better mood.</h3>
+<h1 align="left">Welcome to my profile.</h1>
+<h3 align="left">Most of the time, I'm just one snack away from a better mood.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuffedcrustpotato&label=Profile%20views&color=0e75b6&style=flat" alt="stuffedcrustpotato" /> </p>
-
-<!-- Removed "Connect with me" section -->
 
 <!-- Gaming & Social Profiles Section - Static -->
 <h3 align="left">🎮 Gaming & Social Profiles</h3>
@@ -118,17 +116,8 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
